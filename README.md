@@ -3,6 +3,9 @@
 Live Demo Url : https://netflix-clone-3bb7c.firebaseapp.com/
 ![21-07-16 16 55 13](https://user-images.githubusercontent.com/86331971/126018664-2a99ece4-1f70-4f07-8349-ae24639d4e74.jpg)
 
+![21-07-16 17 14 46](https://user-images.githubusercontent.com/86331971/126019374-61f00d08-603d-4990-8733-c2ce595c30e1.jpg)
+
+
 
 ## Available Scripts
 
